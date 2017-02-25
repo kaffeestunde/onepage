@@ -9,7 +9,7 @@ permalink: /:title
 title: "Trisha Zdziarska"
 description: "My online studio"
 baseurl: ""
-url: "http://trisha.studio" # replace by your site's url
+url: "http://blog.trisha.studio" # replace by your site's url
 twitter_username: your-name
 github_username:  lukas-h # (your name)
 accent: "#f7f7e6" # accent color for blog column

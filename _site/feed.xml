@@ -3,10 +3,10 @@
   <channel>
     <title>Trisha Zdziarska</title>
     <description>My online studio</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Feb 2017 20:57:29 -0500</pubDate>
-    <lastBuildDate>Fri, 24 Feb 2017 20:57:29 -0500</lastBuildDate>
+    <link>http://blog.trisha.studio/</link>
+    <atom:link href="http://blog.trisha.studio/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 24 Feb 2017 21:23:44 -0500</pubDate>
+    <lastBuildDate>Fri, 24 Feb 2017 21:23:44 -0500</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -38,7 +38,7 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Sat, 05 Nov 2016 18:00:00 -0400</pubDate>
-        <link>http://localhost:4000#2016-11-05-18</link>
+        <link>http://blog.trisha.studio#2016-11-05-18</link>
         <guid isPermaLink="true">/test</guid>
         
         
@@ -50,7 +50,7 @@
 Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; how you want, and see what happens…..&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Sep 2016 16:10:00 -0400</pubDate>
-        <link>http://localhost:4000#2016-09-19-16</link>
+        <link>http://blog.trisha.studio#2016-09-19-16</link>
         <guid isPermaLink="true">/welcome</guid>
         
         <category>example</category>
