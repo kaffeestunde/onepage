@@ -6,7 +6,7 @@ highlighter: rouge
 lsi: false
 permalink: /:title
 
-title: "Trisha Zdziarska"
+title: "Patrycja Zdziarska"
 description: "My online studio"
 baseurl: ""
 url: "http://trisha.studio" # replace by your site's url
@@ -14,9 +14,9 @@ twitter_username: your-name
 github_username:  lukas-h # (your name)
 accent: "#fff" # accent color for blog column
 
-author: "Trisha Zdziarska"
+author: "Patrycja Zdziarska"
 address: "Your Street, <br>Your City, Country"
-email: "trishazdz@gmail.com"
+email: "pzdziars@iu.edu"
 
 # google analytics tracking code, please change the value
 g_analytics: ""
