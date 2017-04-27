@@ -129,8 +129,7 @@ li{
   margin: 1rem auto;
 }
 .post-content > .escape {
-  max-width: auto;
-  margin: auto;
+  margin-left: 0;
 }
 .post-content > div {
   margin: 2.5rem 0;
