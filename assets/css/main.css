@@ -142,7 +142,7 @@ code, kbd{
     padding: 2px 4px;
 }
 .blog-column{
-    border-top: 5px solid #db4646;
+    /*border-top: 5px solid #db4646;
     border-bottom: 5px solid #db4646;
-    border-radius: 4px;
+    border-radius: 4px; */
 }
