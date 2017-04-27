@@ -102,7 +102,7 @@ li{
   cursor: default;
 }
 
-.post{ margin-top: 30px; }
+.post{ margin-top: 0; }
 .post-content h1{ font-size: 28px; }
 .post-content h2{ font-size: 24px; }
 .post-content h3{ font-size: 22px; }
