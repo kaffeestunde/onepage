@@ -125,7 +125,7 @@ li{
 .post-content > h4,
 .post-content > h5,
 .post-content > h6 {
-  padding: 0 2rem;
+  padding: 0 3rem 0 0;
 }
 .chip{
     display: inline-block;
