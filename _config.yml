@@ -12,7 +12,7 @@ baseurl: ""
 url: "http://trisha.studio" # replace by your site's url
 twitter_username: your-name
 github_username:  lukas-h # (your name)
-accent: "#f7f7e6" # accent color for blog column
+accent: "#fff" # accent color for blog column
 
 author: "Trisha Zdziarska"
 address: "Your Street, <br>Your City, Country"
