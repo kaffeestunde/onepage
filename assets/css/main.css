@@ -122,11 +122,11 @@ li{
 .chip{
     display: inline-block;
     height: 30px;
-    font-family: 'Share Tech Mono', monospace;
+    font-family: Open Sans, sans-serif;
     font-size: 13px;
     font-weight: 500;
     line-height: 30px;
-    padding: 0 10px;
+    padding: 0;
     border-radius: 15px;
     background-color: #fff;
     margin-bottom: 5px;
