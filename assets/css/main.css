@@ -135,6 +135,9 @@ li{
 .post-content > div {
   margin: 2.5rem 0;
 }
+.post-content div > p {
+  margin-bottom:0;
+}
 .post-content iframe {
   max-width: 100%;
 }
