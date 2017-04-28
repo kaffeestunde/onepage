@@ -141,6 +141,9 @@ li{
 .post-content iframe {
   max-width: 100%;
 }
+.post-content ul li {
+  margin: 0 1rem;
+}
 
 .chip{
     display: inline-block;
