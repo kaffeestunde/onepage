@@ -43,7 +43,7 @@
 .wrap .grid,
 .grid.wrap {
   max-width: 978px;
-  margin: 0 auto;
+  margin: 0;
 }
 
 /* Width classes also have shorthand versions numbered as fractions
