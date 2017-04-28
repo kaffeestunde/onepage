@@ -26,6 +26,9 @@
 .unit.no-padding {
   padding: 0;
 }
+.unit.margins {
+  margin-right: 1rem;
+}
 
 /* This ensures the outer gutters are equal to the (doubled) inner gutters. */
 .grid .unit:first-child { padding-left: 20px; }
