@@ -176,6 +176,10 @@ code, kbd{
   margin-top: 20px;
 }
 
+.caption {
+  margin-top: 1.5rem;
+}
+
 .caption p {
-  margin-bottom: 0;
+  margin: 0;
 }
