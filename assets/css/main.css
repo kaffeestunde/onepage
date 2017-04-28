@@ -127,13 +127,13 @@ li{
 .post-content > h4,
 .post-content > h5,
 .post-content > h6 {
-  max-width: 620px;
+  /*max-width: 620px;*/
 }
 .post-content > .escape {
   margin-left: 0;
 }
 .post-content > div {
-  margin: 2.5rem 0;
+  margin: 1rem 0;
 }
 .post-content div > p {
   margin-bottom:0;
@@ -167,6 +167,7 @@ code, kbd{
     padding: 2px 4px;
 }
 .blog-column{
+  max-width: 620px;
     /*border-top: 5px solid #db4646;
     border-bottom: 5px solid #db4646;
     border-radius: 4px; */
