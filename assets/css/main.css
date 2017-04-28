@@ -175,3 +175,7 @@ code, kbd{
 #/home p {
   margin-top: 20px;
 }
+
+.caption p {
+  margin-bottom: 0;
+}
